@@ -1,0 +1,84 @@
+streamlit run "C:\Users\Aslan\OneDrive\Masaüstü\Multiple Disease\multiple_disease.py"
+
+parsinson deneme=116.682, 131.111, 111.555, 0.0105, 9e-05,
+        0.00544, 0.00781, 0.01633, 0.05233, 0.482, 0.02757, 0.03858,
+        0.0359, 0.0827, 0.01309, 20.651, 1, 0.429895, 0.825288,
+        -4.443179, 0.311173, 2.342259, 0.332634
+MDVP
+(Hz) - Minimum Fundamental Frequency (Hz)
+Minimum Temel Frekans
+
+MDVP
+(Hz) - Maximum Fundamental Frequency (Hz)
+Maksimum Temel Frekans
+
+MDVP
+(Hz) - Minimum Fundamental Frequency (Hz)
+Minimum Temel Frekans
+
+MDVP
+(%) - MDVP Jitter (%)
+MDVP Titreme
+
+MDVP
+(Abs) - MDVP Jitter (Absolute)
+MDVP Titreme (Mutlak Değer)
+
+MDVP
+- MDVP Relative Amplitude Perturbation
+MDVP İlişkili Amplitüd Bozulması
+
+MDVP
+- MDVP Five-Point Period Perturbation Quotient
+MDVP Beş Nokta Periyod Bozulma Oranı
+
+Jitter
+- Jitter: DDP
+Titreme: DDP
+
+MDVP
+- MDVP Shimmer
+MDVP Titreklik
+
+MDVP
+(dB) - MDVP Shimmer (dB)
+MDVP Titreklik (dB)
+
+Shimmer
+- Shimmer: APQ3
+Titreklik: APQ3
+
+Shimmer
+- Shimmer: APQ5
+Titreklik: APQ5
+
+Shimmer
+- Shimmer: DDA
+Titreklik: DDA
+
+NHR - Noise-to-Harmonics Ratio
+Gürültü-Harmonik Oranı
+
+HNR - Harmonics-to-Noise Ratio
+Harmonik-Gürültü Oranı
+
+RPDE - Recurrence Period Density Entropy
+Tekrar Dönem Yoğunluk Entropisi
+
+DFA - Detrended Fluctuation Analysis
+Trendden Arındırılmış Dalgalanma Analizi
+
+spread1 - Nonlinear Measures of Fundamental Frequency Variation
+Temel Frekans Değişkenliğinin Doğrusal Olmayan Ölçüleri
+
+spread2 - Nonlinear Measures of Fundamental Frequency Variation
+Temel Frekans Değişkenliğinin Doğrusal Olmayan Ölçüleri
+
+D2 - Correlation Dimension
+Korelasyon Boyutu
+
+PPE - Pitch Period Entropy
+Ton Periyodu Entropisi
+
+status - Parkinson's Disease Status
+Parkinson Hastalığı Durumu
